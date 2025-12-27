@@ -12,7 +12,7 @@ World statistics by country. SQL database backend with DuckDB spatial extension,
 |---------|---------|-------------|
 | DuckDB | 1.4.3 | In-process SQL database |
 | DuckDB Spatial | - | Spatial extension for geometry |
-| [duck-spatial](https://github.com/pedro-vicente/duck-spatial) | - | C++ spatial client wrapper for DuckDB |
+| duck-spatial | - | C++ spatial client wrapper for DuckDB |
 | Wt | 4.12.1 | C++ web framework |
 | Boost | 1.88.0 | C++ libraries |
 | MapLibre GL JS | 4.7.1 | Web map rendering (CDN) |
